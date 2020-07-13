@@ -23,4 +23,4 @@ leetcode 攻略之路
 
 如果对你有帮助，可以请我喝杯咖啡
 
-![](https://fritx.me/mpwx/upload/upload_1403f36aef25fee62985d1c8bb55ab55.png)
+![](./res/image/pay.jpg)
