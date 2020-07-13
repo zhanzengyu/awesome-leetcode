@@ -17,7 +17,7 @@ leetcode 攻略之路
 
 欢迎关注公众号 AndroidTraveler，一起学习，共同进步
 
-![公众号 AndroidTraveler](./res/image/wechat_official_account.png)
+![公众号 AndroidTraveler](./res/image/wechat_official_account.jpg)
 
 <hr/>
 
