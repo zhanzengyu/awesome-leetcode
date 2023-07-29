@@ -25,10 +25,4 @@ leetcode 攻略之路
 
 欢迎关注公众号 AndroidTraveler，一起学习，共同进步
 
-![公众号 AndroidTraveler](./res/image/wechat_official_account.jpg)
-
-<hr/>
-
-如果对你有帮助，可以请我喝杯咖啡
-
-![](./res/image/pay.jpg)
+<img src="./res/image/wechat_official_account.jpg" width="400"/>
